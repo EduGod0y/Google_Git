@@ -1,2 +1,4 @@
 # Google_Git
 Repository for the Google Git Course
+
+I am editing the README file. Adding some more details about the project description.
